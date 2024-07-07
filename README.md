@@ -4,7 +4,7 @@
 
  ```python
   class WhoAmI:
-    user = 'Jaydeep Yadav'
+    user = 'Ransilu Samaraweera'
 	current_edu = "CSIT"
     currently_learning = "Javascript"
     fun_fact = "I hate Chillies"
