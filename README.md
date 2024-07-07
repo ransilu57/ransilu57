@@ -5,9 +5,9 @@
  ```python
   class WhoAmI:
     user = 'Ransilu Samaraweera'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
+	current_edu = "SLIIT"
+    currently_learning = "Java"
+    fun_fact = "I love drawing"
 	hobbies = [
 				'Music',
                          'Chilling',
@@ -16,7 +16,7 @@
 			]
 	
 	def getCity():
-		return Chhattisgarh_India()
+		return Malabe_Sri Lanka()
 	
 	def Ambitions():
 		BecomeSoftwareEngineer()
@@ -27,7 +27,7 @@
  
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaydeep-yadav&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ransilu57&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ransilu57&theme=blueberry_duo"/>
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-yadav&layout=compact&theme=github_dark"/>|
 
@@ -39,21 +39,6 @@
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-</p>
-
-## Frameworks and Libraries
-<p>
-   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
-   <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
-</p>
-
-## Operating Systems
-<p>
-	<a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
-	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
-	<a href="#"><img alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white"></a>
-	
 </p>
 
 ## Browsers
