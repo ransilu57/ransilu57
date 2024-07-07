@@ -67,5 +67,4 @@
 </p>
 
 ------
-[Jaydeep-Yadav](https://github.com/jaydeep-yadav)
-Last Edited on - 11/10/2021
+
