@@ -29,7 +29,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ransilu57&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ransilu57&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-yadav&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransilu57&layout=compact&theme=github_dark"/>|
 
 ## Programming Languages
 
